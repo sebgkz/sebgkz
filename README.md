@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sebgkz
-- 👀 I’m interested in beconming a data analyst
+- 👀 I’m interested in becoming a data analyst
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on projects about the credit debt of common people
 - 📫 How to reach me: write me an email! giral31do@gmail.com
